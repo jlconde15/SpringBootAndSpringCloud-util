@@ -1,5 +1,0 @@
-com/example/exceptions/InvalidInputException.class
-com/example/http/ServiceUtil.class
-com/example/http/GlobalControllerExceptionHandler.class
-com/example/http/HttpErrorInfo.class
-com/example/exceptions/NotFoundException.class
